@@ -1,0 +1,2 @@
+# machine-learning-course-project
+We explore the problem of learning to predict the popularity of an article in online news media. By "popular" we mean an article that was among the "most read" articles of a given day in the news outlet that published it. We show that this cannot be modelled simply as the binary classification task of separating popular from unpopular articles, thereby assuming that popularity is an absolute property. 
